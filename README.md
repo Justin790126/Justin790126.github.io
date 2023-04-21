@@ -56,7 +56,9 @@
 * Vacuum robot:
     * System Integration between MCU & SoC (UART, I2C)
     * Vacuum robot application development (All the behavior design and verification)
+
 ------
+
 ### PAPERS
 * Chao-Jan Chang* and Chyong-Hua Chen, "Ultra-Compact Micro-ring resonator filter with the subwavelength gratings" optics & photonic Taiwan, International Conference 2013.
 * Chao-Jan Chang* and Chyong-Hua Chen, “Investigation of Subwavelength Grating (SWG) Waveguide Structures” Diss. 2014.
